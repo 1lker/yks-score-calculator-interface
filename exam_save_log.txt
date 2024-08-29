@@ -1,0 +1,1296 @@
+[2024-08-28 14:53:04] Veri alındı: Array
+(
+    [diploma] => Array
+        (
+            [notu] => 98
+        )
+
+    [tyt] => Array
+        (
+            [turkce] => Array
+                (
+                    [dogru] => 21
+                    [yanlis] => 
+                )
+
+            [sosyal] => Array
+                (
+                    [b.] => Array
+                        (
+                            [dogru] => 3
+                            [yanlis] => 
+                        )
+
+                )
+
+            [t.] => Array
+                (
+                    [matematik] => Array
+                        (
+                            [dogru] => 12
+                            [yanlis] => 
+                        )
+
+                )
+
+            [fen] => Array
+                (
+                    [b.] => Array
+                        (
+                            [dogru] => 12
+                            [yanlis] => 
+                        )
+
+                )
+
+        )
+
+    [ayt] => Array
+        (
+            [turk] => Array
+                (
+                    [dili] => Array
+                        (
+                            [ve] => Array
+                                (
+                                    [edebiyati] => Array
+                                        (
+                                            [dogru] => 22
+                                            [yanlis] => 
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [tarih-1] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [cografya-1] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [tarih-2] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [cografya-2] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [felsefe] => Array
+                (
+                    [grubu] => Array
+                        (
+                            [dogru] => 
+                            [yanlis] => 
+                        )
+
+                )
+
+            [din] => Array
+                (
+                    [kulturu] => Array
+                        (
+                            [ve] => Array
+                                (
+                                    [ahlak] => Array
+                                        (
+                                            [bilgisi] => Array
+                                                (
+                                                    [dogru] => 
+                                                    [yanlis] => 
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [matematik] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [fizik] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [kimya] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [biyoloji] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+        )
+
+    [ydt] => Array
+        (
+            [dogru] => 14
+            [yanlis] => 
+        )
+
+    [examName] => ilk sınavım
+    [examDate] => 2024-08-28
+)
+
+[2024-08-28 14:53:04] Veritabanı bağlantısı başarılı
+[2024-08-28 14:53:04] Sorgu ve parametreler hazırlandı
+[2024-08-28 14:53:04] Hata: Sorgu çalıştırma hatası: Column 'tyt_sosyal_b_dogru' cannot be null
+[2024-08-28 14:53:12] Veri alındı: Array
+(
+    [diploma] => Array
+        (
+            [notu] => 98
+        )
+
+    [tyt] => Array
+        (
+            [turkce] => Array
+                (
+                    [dogru] => 21
+                    [yanlis] => 
+                )
+
+            [sosyal] => Array
+                (
+                    [b.] => Array
+                        (
+                            [dogru] => 3
+                            [yanlis] => 
+                        )
+
+                )
+
+            [t.] => Array
+                (
+                    [matematik] => Array
+                        (
+                            [dogru] => 12
+                            [yanlis] => 
+                        )
+
+                )
+
+            [fen] => Array
+                (
+                    [b.] => Array
+                        (
+                            [dogru] => 12
+                            [yanlis] => 
+                        )
+
+                )
+
+        )
+
+    [ayt] => Array
+        (
+            [turk] => Array
+                (
+                    [dili] => Array
+                        (
+                            [ve] => Array
+                                (
+                                    [edebiyati] => Array
+                                        (
+                                            [dogru] => 22
+                                            [yanlis] => 
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [tarih-1] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [cografya-1] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [tarih-2] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [cografya-2] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [felsefe] => Array
+                (
+                    [grubu] => Array
+                        (
+                            [dogru] => 
+                            [yanlis] => 
+                        )
+
+                )
+
+            [din] => Array
+                (
+                    [kulturu] => Array
+                        (
+                            [ve] => Array
+                                (
+                                    [ahlak] => Array
+                                        (
+                                            [bilgisi] => Array
+                                                (
+                                                    [dogru] => 
+                                                    [yanlis] => 
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [matematik] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [fizik] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [kimya] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [biyoloji] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+        )
+
+    [ydt] => Array
+        (
+            [dogru] => 14
+            [yanlis] => 
+        )
+
+    [examName] => ilk sınavım
+    [examDate] => 2024-08-28
+)
+
+[2024-08-28 14:53:12] Veritabanı bağlantısı başarılı
+[2024-08-28 14:53:12] Sorgu ve parametreler hazırlandı
+[2024-08-28 14:53:12] Hata: Sorgu çalıştırma hatası: Column 'tyt_sosyal_b_dogru' cannot be null
+[2024-08-28 16:19:35] Veri alındı: Array
+(
+    [diploma] => Array
+        (
+            [notu] => 98
+        )
+
+    [tyt] => Array
+        (
+            [turkce] => Array
+                (
+                    [dogru] => 21
+                    [yanlis] => 
+                )
+
+            [sosyal] => Array
+                (
+                    [b.] => Array
+                        (
+                            [dogru] => 3
+                            [yanlis] => 
+                        )
+
+                )
+
+            [t.] => Array
+                (
+                    [matematik] => Array
+                        (
+                            [dogru] => 12
+                            [yanlis] => 
+                        )
+
+                )
+
+            [fen] => Array
+                (
+                    [b.] => Array
+                        (
+                            [dogru] => 12
+                            [yanlis] => 
+                        )
+
+                )
+
+        )
+
+    [ayt] => Array
+        (
+            [turk] => Array
+                (
+                    [dili] => Array
+                        (
+                            [ve] => Array
+                                (
+                                    [edebiyati] => Array
+                                        (
+                                            [dogru] => 22
+                                            [yanlis] => 
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [tarih-1] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [cografya-1] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [tarih-2] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [cografya-2] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [felsefe] => Array
+                (
+                    [grubu] => Array
+                        (
+                            [dogru] => 
+                            [yanlis] => 
+                        )
+
+                )
+
+            [din] => Array
+                (
+                    [kulturu] => Array
+                        (
+                            [ve] => Array
+                                (
+                                    [ahlak] => Array
+                                        (
+                                            [bilgisi] => Array
+                                                (
+                                                    [dogru] => 
+                                                    [yanlis] => 
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [matematik] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [fizik] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [kimya] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [biyoloji] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+        )
+
+    [ydt] => Array
+        (
+            [dogru] => 14
+            [yanlis] => 
+        )
+
+    [examName] => ilk sınavım
+    [examDate] => 2024-08-28
+)
+
+[2024-08-28 16:19:35] Veritabanı bağlantısı başarılı
+[2024-08-28 16:19:35] Sorgu ve parametreler hazırlandı
+[2024-08-28 16:19:35] Hata: Sorgu çalıştırma hatası: Column 'tyt_sosyal_b_dogru' cannot be null
+[2024-08-28 16:20:29] Veri alındı: Array
+(
+    [diploma] => Array
+        (
+            [notu] => 98
+        )
+
+    [tyt] => Array
+        (
+            [turkce] => Array
+                (
+                    [dogru] => 21
+                    [yanlis] => 
+                )
+
+            [sosyal] => Array
+                (
+                    [b.] => Array
+                        (
+                            [dogru] => 3
+                            [yanlis] => 
+                        )
+
+                )
+
+            [t.] => Array
+                (
+                    [matematik] => Array
+                        (
+                            [dogru] => 12
+                            [yanlis] => 
+                        )
+
+                )
+
+            [fen] => Array
+                (
+                    [b.] => Array
+                        (
+                            [dogru] => 12
+                            [yanlis] => 
+                        )
+
+                )
+
+        )
+
+    [ayt] => Array
+        (
+            [turk] => Array
+                (
+                    [dili] => Array
+                        (
+                            [ve] => Array
+                                (
+                                    [edebiyati] => Array
+                                        (
+                                            [dogru] => 22
+                                            [yanlis] => 
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [tarih-1] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [cografya-1] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [tarih-2] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [cografya-2] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [felsefe] => Array
+                (
+                    [grubu] => Array
+                        (
+                            [dogru] => 
+                            [yanlis] => 
+                        )
+
+                )
+
+            [din] => Array
+                (
+                    [kulturu] => Array
+                        (
+                            [ve] => Array
+                                (
+                                    [ahlak] => Array
+                                        (
+                                            [bilgisi] => Array
+                                                (
+                                                    [dogru] => 
+                                                    [yanlis] => 
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [matematik] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [fizik] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [kimya] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [biyoloji] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+        )
+
+    [ydt] => Array
+        (
+            [dogru] => 14
+            [yanlis] => 
+        )
+
+    [examName] => ilk sınavım
+    [examDate] => 2024-08-28
+)
+
+[2024-08-28 16:20:29] Veritabanı bağlantısı başarılı
+[2024-08-28 16:20:29] Sorgu ve parametreler hazırlandı
+[2024-08-28 16:20:29] Sınav başarıyla kaydedildi. Etkilenen satır sayısı: 1
+[2024-08-28 16:24:15] Veri alındı: Array
+(
+    [diploma] => Array
+        (
+            [notu] => 98
+        )
+
+    [tyt] => Array
+        (
+            [turkce] => Array
+                (
+                    [dogru] => 21
+                    [yanlis] => 
+                )
+
+            [sosyal] => Array
+                (
+                    [b.] => Array
+                        (
+                            [dogru] => 3
+                            [yanlis] => 
+                        )
+
+                )
+
+            [t.] => Array
+                (
+                    [matematik] => Array
+                        (
+                            [dogru] => 12
+                            [yanlis] => 
+                        )
+
+                )
+
+            [fen] => Array
+                (
+                    [b.] => Array
+                        (
+                            [dogru] => 12
+                            [yanlis] => 
+                        )
+
+                )
+
+        )
+
+    [ayt] => Array
+        (
+            [turk] => Array
+                (
+                    [dili] => Array
+                        (
+                            [ve] => Array
+                                (
+                                    [edebiyati] => Array
+                                        (
+                                            [dogru] => 22
+                                            [yanlis] => 
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [tarih-1] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [cografya-1] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [tarih-2] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [cografya-2] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [felsefe] => Array
+                (
+                    [grubu] => Array
+                        (
+                            [dogru] => 
+                            [yanlis] => 
+                        )
+
+                )
+
+            [din] => Array
+                (
+                    [kulturu] => Array
+                        (
+                            [ve] => Array
+                                (
+                                    [ahlak] => Array
+                                        (
+                                            [bilgisi] => Array
+                                                (
+                                                    [dogru] => 
+                                                    [yanlis] => 
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [matematik] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [fizik] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [kimya] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [biyoloji] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+        )
+
+    [ydt] => Array
+        (
+            [dogru] => 14
+            [yanlis] => 
+        )
+
+    [examName] => ilk sınavım 2
+    [examDate] => 2024-08-28
+)
+
+[2024-08-28 16:24:15] Veritabanı bağlantısı başarılı
+[2024-08-28 16:24:15] Sorgu ve parametreler hazırlandı
+[2024-08-28 16:24:15] Sınav başarıyla kaydedildi. Etkilenen satır sayısı: 1
+[2024-08-28 16:26:51] Veri alındı: Array
+(
+    [diploma] => Array
+        (
+            [notu] => 98
+        )
+
+    [tyt] => Array
+        (
+            [turkce] => Array
+                (
+                    [dogru] => 21
+                    [yanlis] => 
+                )
+
+            [sosyal] => Array
+                (
+                    [b.] => Array
+                        (
+                            [dogru] => 3
+                            [yanlis] => 
+                        )
+
+                )
+
+            [t.] => Array
+                (
+                    [matematik] => Array
+                        (
+                            [dogru] => 12
+                            [yanlis] => 
+                        )
+
+                )
+
+            [fen] => Array
+                (
+                    [b.] => Array
+                        (
+                            [dogru] => 12
+                            [yanlis] => 
+                        )
+
+                )
+
+        )
+
+    [ayt] => Array
+        (
+            [turk] => Array
+                (
+                    [dili] => Array
+                        (
+                            [ve] => Array
+                                (
+                                    [edebiyati] => Array
+                                        (
+                                            [dogru] => 22
+                                            [yanlis] => 
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [tarih-1] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [cografya-1] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [tarih-2] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [cografya-2] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [felsefe] => Array
+                (
+                    [grubu] => Array
+                        (
+                            [dogru] => 
+                            [yanlis] => 
+                        )
+
+                )
+
+            [din] => Array
+                (
+                    [kulturu] => Array
+                        (
+                            [ve] => Array
+                                (
+                                    [ahlak] => Array
+                                        (
+                                            [bilgisi] => Array
+                                                (
+                                                    [dogru] => 
+                                                    [yanlis] => 
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [matematik] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [fizik] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [kimya] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [biyoloji] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+        )
+
+    [ydt] => Array
+        (
+            [dogru] => 14
+            [yanlis] => 
+        )
+
+    [examName] => ilk sınavım 2
+    [examDate] => 2024-08-28
+)
+
+[2024-08-28 16:26:51] Veritabanı bağlantısı başarılı
+[2024-08-28 16:26:51] Sorgu ve parametreler hazırlandı
+[2024-08-28 16:26:51] Sınav başarıyla kaydedildi. Etkilenen satır sayısı: 1
+[2024-08-28 16:28:52] Veri alındı: Array
+(
+    [diploma] => Array
+        (
+            [notu] => 
+        )
+
+    [tyt] => Array
+        (
+            [turkce] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [sosyal] => Array
+                (
+                    [b.] => Array
+                        (
+                            [dogru] => 
+                            [yanlis] => 
+                        )
+
+                )
+
+            [t.] => Array
+                (
+                    [matematik] => Array
+                        (
+                            [dogru] => 
+                            [yanlis] => 
+                        )
+
+                )
+
+            [fen] => Array
+                (
+                    [b.] => Array
+                        (
+                            [dogru] => 
+                            [yanlis] => 
+                        )
+
+                )
+
+        )
+
+    [ayt] => Array
+        (
+            [turk] => Array
+                (
+                    [dili] => Array
+                        (
+                            [ve] => Array
+                                (
+                                    [edebiyati] => Array
+                                        (
+                                            [dogru] => 
+                                            [yanlis] => 
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [tarih-1] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [cografya-1] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [tarih-2] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [cografya-2] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [felsefe] => Array
+                (
+                    [grubu] => Array
+                        (
+                            [dogru] => 
+                            [yanlis] => 
+                        )
+
+                )
+
+            [din] => Array
+                (
+                    [kulturu] => Array
+                        (
+                            [ve] => Array
+                                (
+                                    [ahlak] => Array
+                                        (
+                                            [bilgisi] => Array
+                                                (
+                                                    [dogru] => 
+                                                    [yanlis] => 
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [matematik] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [fizik] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [kimya] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [biyoloji] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+        )
+
+    [ydt] => Array
+        (
+            [dogru] => 12
+            [yanlis] => 
+        )
+
+    [examName] => excam
+    [examDate] => 2024-08-28
+)
+
+[2024-08-28 16:28:52] Veritabanı bağlantısı başarılı
+[2024-08-28 16:28:52] Sorgu ve parametreler hazırlandı
+[2024-08-28 16:28:52] Sınav başarıyla kaydedildi. Etkilenen satır sayısı: 1
+[2024-08-28 16:31:08] Veri alındı: Array
+(
+    [diploma] => Array
+        (
+            [notu] => 
+        )
+
+    [tyt] => Array
+        (
+            [turkce] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [sosyal] => Array
+                (
+                    [b.] => Array
+                        (
+                            [dogru] => 
+                            [yanlis] => 
+                        )
+
+                )
+
+            [t.] => Array
+                (
+                    [matematik] => Array
+                        (
+                            [dogru] => 
+                            [yanlis] => 
+                        )
+
+                )
+
+            [fen] => Array
+                (
+                    [b.] => Array
+                        (
+                            [dogru] => 
+                            [yanlis] => 
+                        )
+
+                )
+
+        )
+
+    [ayt] => Array
+        (
+            [turk] => Array
+                (
+                    [dili] => Array
+                        (
+                            [ve] => Array
+                                (
+                                    [edebiyati] => Array
+                                        (
+                                            [dogru] => 
+                                            [yanlis] => 
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [tarih-1] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [cografya-1] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [tarih-2] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [cografya-2] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [felsefe] => Array
+                (
+                    [grubu] => Array
+                        (
+                            [dogru] => 
+                            [yanlis] => 
+                        )
+
+                )
+
+            [din] => Array
+                (
+                    [kulturu] => Array
+                        (
+                            [ve] => Array
+                                (
+                                    [ahlak] => Array
+                                        (
+                                            [bilgisi] => Array
+                                                (
+                                                    [dogru] => 
+                                                    [yanlis] => 
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [matematik] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [fizik] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [kimya] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+            [biyoloji] => Array
+                (
+                    [dogru] => 
+                    [yanlis] => 
+                )
+
+        )
+
+    [ydt] => Array
+        (
+            [dogru] => 11
+            [yanlis] => 12
+        )
+
+    [examName] => excam1
+    [examDate] => 2024-08-28
+)
+
+[2024-08-28 16:31:08] Veritabanı bağlantısı başarılı
+[2024-08-28 16:31:08] Sorgu ve parametreler hazırlandı
+[2024-08-28 16:31:08] Sınav başarıyla kaydedildi. Etkilenen satır sayısı: 1

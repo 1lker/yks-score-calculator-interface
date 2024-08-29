@@ -1,0 +1,686 @@
+[
+    {
+        "examName": "Exam-26-08-2024",
+        "examDate": "2024-08-26",
+        "scores": {
+            "tyt": {
+                "turkce": {
+                    "dogru": 20,
+                    "yanlis": 20
+                },
+                "sosyal": {
+                    "dogru": 10,
+                    "yanlis": 10
+                },
+                "matematik": {
+                    "dogru": 30,
+                    "yanlis": 10
+                },
+                "fen": {
+                    "dogru": 10,
+                    "yanlis": 10
+                }
+            },
+            "ayt": {
+                "matematik": {
+                    "dogru": 30,
+                    "yanlis": 10
+                },
+                "fizik": {
+                    "dogru": 12,
+                    "yanlis": 2
+                },
+                "kimya": {
+                    "dogru": 12,
+                    "yanlis": 1
+                },
+                "biyoloji": {
+                    "dogru": 12,
+                    "yanlis": 1
+                },
+                "edebiyat": {
+                    "dogru": 20,
+                    "yanlis": 4
+                },
+                "tarih1": {
+                    "dogru": 7,
+                    "yanlis": 3
+                },
+                "cografya1": {
+                    "dogru": 5,
+                    "yanlis": 1
+                },
+                "tarih2": {
+                    "dogru": 8,
+                    "yanlis": 2
+                },
+                "cografya2": {
+                    "dogru": 8,
+                    "yanlis": 2
+                },
+                "felsefe": {
+                    "dogru": 10,
+                    "yanlis": 2
+                },
+                "din": {
+                    "dogru": 5,
+                    "yanlis": 1
+                }
+            },
+            "ydt": {
+                "ydt": {
+                    "dogru": 60,
+                    "yanlis": 10
+                }
+            }
+        }
+    },
+    {
+        "examName": "Exam-01-09-2024",
+        "examDate": "2024-09-01",
+        "scores": {
+            "tyt": {
+                "turkce": {
+                    "dogru": 15,
+                    "yanlis": 5
+                },
+                "sosyal": {
+                    "dogru": 12,
+                    "yanlis": 8
+                },
+                "matematik": {
+                    "dogru": 25,
+                    "yanlis": 5
+                },
+                "fen": {
+                    "dogru": 12,
+                    "yanlis": 8
+                }
+            },
+            "ayt": {
+                "matematik": {
+                    "dogru": 25,
+                    "yanlis": 10
+                },
+                "fizik": {
+                    "dogru": 10,
+                    "yanlis": 4
+                },
+                "kimya": {
+                    "dogru": 11,
+                    "yanlis": 2
+                },
+                "biyoloji": {
+                    "dogru": 13,
+                    "yanlis": 2
+                },
+                "edebiyat": {
+                    "dogru": 18,
+                    "yanlis": 6
+                },
+                "tarih1": {
+                    "dogru": 8,
+                    "yanlis": 2
+                },
+                "cografya1": {
+                    "dogru": 6,
+                    "yanlis": 2
+                },
+                "tarih2": {
+                    "dogru": 10,
+                    "yanlis": 1
+                },
+                "cografya2": {
+                    "dogru": 8,
+                    "yanlis": 3
+                },
+                "felsefe": {
+                    "dogru": 8,
+                    "yanlis": 4
+                },
+                "din": {
+                    "dogru": 6,
+                    "yanlis": 3
+                }
+            },
+            "ydt": {
+                "ydt": {
+                    "dogru": 70,
+                    "yanlis": 10
+                }
+            }
+        }
+    },
+    {
+        "examName": "Exam-01-09-2024",
+        "examDate": "2024-09-01",
+        "scores": {
+            "tyt": {
+                "turkce": {
+                    "dogru": 20,
+                    "yanlis": 5
+                },
+                "sosyal": {
+                    "dogru": 15,
+                    "yanlis": 5
+                },
+                "matematik": {
+                    "dogru": 30,
+                    "yanlis": 5
+                },
+                "fen": {
+                    "dogru": 15,
+                    "yanlis": 5
+                }
+            },
+            "ayt": {
+                "matematik": {
+                    "dogru": 35,
+                    "yanlis": 5
+                },
+                "fizik": {
+                    "dogru": 12,
+                    "yanlis": 2
+                },
+                "kimya": {
+                    "dogru": 13,
+                    "yanlis": 1
+                },
+                "biyoloji": {
+                    "dogru": 13,
+                    "yanlis": 2
+                },
+                "edebiyat": {
+                    "dogru": 22,
+                    "yanlis": 5
+                },
+                "tarih1": {
+                    "dogru": 9,
+                    "yanlis": 1
+                },
+                "cografya1": {
+                    "dogru": 7,
+                    "yanlis": 3
+                },
+                "tarih2": {
+                    "dogru": 10,
+                    "yanlis": 2
+                },
+                "cografya2": {
+                    "dogru": 9,
+                    "yanlis": 2
+                },
+                "felsefe": {
+                    "dogru": 10,
+                    "yanlis": 3
+                },
+                "din": {
+                    "dogru": 7,
+                    "yanlis": 2
+                }
+            },
+            "ydt": {
+                "ydt": {
+                    "dogru": 65,
+                    "yanlis": 15
+                }
+            }
+        }
+    },
+    {
+        "examName": "Exam-01-09-2024",
+        "examDate": "2024-09-01",
+        "scores": {
+            "tyt": {
+                "turkce": {
+                    "dogru": 18,
+                    "yanlis": 7
+                },
+                "sosyal": {
+                    "dogru": 14,
+                    "yanlis": 6
+                },
+                "matematik": {
+                    "dogru": 28,
+                    "yanlis": 7
+                },
+                "fen": {
+                    "dogru": 14,
+                    "yanlis": 6
+                }
+            },
+            "ayt": {
+                "matematik": {
+                    "dogru": 32,
+                    "yanlis": 8
+                },
+                "fizik": {
+                    "dogru": 11,
+                    "yanlis": 4
+                },
+                "kimya": {
+                    "dogru": 10,
+                    "yanlis": 3
+                },
+                "biyoloji": {
+                    "dogru": 12,
+                    "yanlis": 3
+                },
+                "edebiyat": {
+                    "dogru": 20,
+                    "yanlis": 4
+                },
+                "tarih1": {
+                    "dogru": 10,
+                    "yanlis": 3
+                },
+                "cografya1": {
+                    "dogru": 6,
+                    "yanlis": 2
+                },
+                "tarih2": {
+                    "dogru": 9,
+                    "yanlis": 2
+                },
+                "cografya2": {
+                    "dogru": 7,
+                    "yanlis": 4
+                },
+                "felsefe": {
+                    "dogru": 9,
+                    "yanlis": 4
+                },
+                "din": {
+                    "dogru": 6,
+                    "yanlis": 2
+                }
+            },
+            "ydt": {
+                "ydt": {
+                    "dogru": 75,
+                    "yanlis": 5
+                }
+            }
+        }
+    },
+    {
+        "examName": "Exam-26-08-2024",
+        "examDate": "2024-08-26",
+        "scores": {
+            "tyt": {
+                "turkce": {
+                    "dogru": 40,
+                    "yanlis": 0
+                },
+                "sosyal": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "matematik": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "fen": {
+                    "dogru": 0,
+                    "yanlis": 0
+                }
+            },
+            "ayt": {
+                "matematik": {
+                    "dogru": 1,
+                    "yanlis": 1
+                },
+                "fizik": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "kimya": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "biyoloji": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "edebiyat": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "tarih1": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "cografya1": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "tarih2": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "cografya2": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "felsefe": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "din": {
+                    "dogru": 0,
+                    "yanlis": 0
+                }
+            },
+            "ydt": {
+                "ydt": {
+                    "dogru": 80,
+                    "yanlis": 0
+                }
+            }
+        }
+    },
+    {
+        "examName": "ilk s\u0131nav\u0131m",
+        "examDate": "2024-08-28",
+        "scores": {
+            "tyt": {
+                "turkce": {
+                    "dogru": 21,
+                    "yanlis": 0
+                },
+                "sosyal": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "matematik": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "fen": {
+                    "dogru": 0,
+                    "yanlis": 0
+                }
+            },
+            "ayt": {
+                "matematik": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "fizik": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "kimya": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "biyoloji": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "edebiyat": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "tarih1": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "cografya1": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "tarih2": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "cografya2": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "felsefe": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "din": {
+                    "dogru": 0,
+                    "yanlis": 0
+                }
+            },
+            "ydt": {
+                "ydt": {
+                    "dogru": 14,
+                    "yanlis": 0
+                }
+            }
+        }
+    },
+    {
+        "examName": "ilk s\u0131nav\u0131m",
+        "examDate": "2024-08-28",
+        "scores": {
+            "tyt": {
+                "turkce": {
+                    "dogru": 21,
+                    "yanlis": 0
+                },
+                "sosyal": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "matematik": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "fen": {
+                    "dogru": 0,
+                    "yanlis": 0
+                }
+            },
+            "ayt": {
+                "matematik": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "fizik": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "kimya": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "biyoloji": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "edebiyat": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "tarih1": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "cografya1": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "tarih2": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "cografya2": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "felsefe": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "din": {
+                    "dogru": 0,
+                    "yanlis": 0
+                }
+            },
+            "ydt": {
+                "ydt": {
+                    "dogru": 14,
+                    "yanlis": 0
+                }
+            }
+        }
+    },
+    {
+        "examName": "ilk s\u0131nav\u0131m",
+        "examDate": "2024-08-28",
+        "scores": {
+            "tyt": {
+                "turkce": {
+                    "dogru": 21,
+                    "yanlis": 0
+                },
+                "sosyal": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "matematik": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "fen": {
+                    "dogru": 0,
+                    "yanlis": 0
+                }
+            },
+            "ayt": {
+                "matematik": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "fizik": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "kimya": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "biyoloji": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "edebiyat": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "tarih1": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "cografya1": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "tarih2": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "cografya2": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "felsefe": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "din": {
+                    "dogru": 0,
+                    "yanlis": 0
+                }
+            },
+            "ydt": {
+                "ydt": {
+                    "dogru": 14,
+                    "yanlis": 0
+                }
+            }
+        }
+    },
+    {
+        "examName": "ilk s\u0131nav\u0131m",
+        "examDate": "2024-08-28",
+        "scores": {
+            "tyt": {
+                "turkce": {
+                    "dogru": 21,
+                    "yanlis": 0
+                },
+                "sosyal": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "matematik": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "fen": {
+                    "dogru": 0,
+                    "yanlis": 0
+                }
+            },
+            "ayt": {
+                "matematik": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "fizik": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "kimya": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "biyoloji": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "edebiyat": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "tarih1": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "cografya1": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "tarih2": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "cografya2": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "felsefe": {
+                    "dogru": 0,
+                    "yanlis": 0
+                },
+                "din": {
+                    "dogru": 0,
+                    "yanlis": 0
+                }
+            },
+            "ydt": {
+                "ydt": {
+                    "dogru": 14,
+                    "yanlis": 0
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,115 @@
+Query: INSERT INTO wp_yks_targets (user_id, tyt_turkce_dogru, tyt_turkce_yanlis, tyt_sosyal_b_dogru, tyt_sosyal_b_yanlis, tyt_t_matematik_dogru, tyt_t_matematik_yanlis, tyt_fen_b_dogru, tyt_fen_b_yanlis, ayt_matematik_dogru, ayt_matematik_yanlis, ayt_fizik_dogru, ayt_fizik_yanlis, ayt_kimya_dogru, ayt_kimya_yanlis, ayt_biyoloji_dogru, ayt_biyoloji_yanlis, ayt_turk_dili_ve_edebiyati_dogru, ayt_turk_dili_ve_edebiyati_yanlis, ayt_tarih1_dogru, ayt_tarih1_yanlis, ayt_cografya1_dogru, ayt_cografya1_yanlis, ayt_tarih2_dogru, ayt_tarih2_yanlis, ayt_cografya2_dogru, ayt_cografya2_yanlis, ayt_felsefe_grubu_dogru, ayt_felsefe_grubu_yanlis, ayt_dkab_dogru, ayt_dkab_yanlis, ydt_dogru, ydt_yanlis) 
+              VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+              ON DUPLICATE KEY UPDATE tyt_turkce_dogru = VALUES(tyt_turkce_dogru), tyt_turkce_yanlis = VALUES(tyt_turkce_yanlis), tyt_sosyal_b_dogru = VALUES(tyt_sosyal_b_dogru), tyt_sosyal_b_yanlis = VALUES(tyt_sosyal_b_yanlis), tyt_t_matematik_dogru = VALUES(tyt_t_matematik_dogru), tyt_t_matematik_yanlis = VALUES(tyt_t_matematik_yanlis), tyt_fen_b_dogru = VALUES(tyt_fen_b_dogru), tyt_fen_b_yanlis = VALUES(tyt_fen_b_yanlis), ayt_matematik_dogru = VALUES(ayt_matematik_dogru), ayt_matematik_yanlis = VALUES(ayt_matematik_yanlis), ayt_fizik_dogru = VALUES(ayt_fizik_dogru), ayt_fizik_yanlis = VALUES(ayt_fizik_yanlis), ayt_kimya_dogru = VALUES(ayt_kimya_dogru), ayt_kimya_yanlis = VALUES(ayt_kimya_yanlis), ayt_biyoloji_dogru = VALUES(ayt_biyoloji_dogru), ayt_biyoloji_yanlis = VALUES(ayt_biyoloji_yanlis), ayt_turk_dili_ve_edebiyati_dogru = VALUES(ayt_turk_dili_ve_edebiyati_dogru), ayt_turk_dili_ve_edebiyati_yanlis = VALUES(ayt_turk_dili_ve_edebiyati_yanlis), ayt_tarih1_dogru = VALUES(ayt_tarih1_dogru), ayt_tarih1_yanlis = VALUES(ayt_tarih1_yanlis), ayt_cografya1_dogru = VALUES(ayt_cografya1_dogru), ayt_cografya1_yanlis = VALUES(ayt_cografya1_yanlis), ayt_tarih2_dogru = VALUES(ayt_tarih2_dogru), ayt_tarih2_yanlis = VALUES(ayt_tarih2_yanlis), ayt_cografya2_dogru = VALUES(ayt_cografya2_dogru), ayt_cografya2_yanlis = VALUES(ayt_cografya2_yanlis), ayt_felsefe_grubu_dogru = VALUES(ayt_felsefe_grubu_dogru), ayt_felsefe_grubu_yanlis = VALUES(ayt_felsefe_grubu_yanlis), ayt_dkab_dogru = VALUES(ayt_dkab_dogru), ayt_dkab_yanlis = VALUES(ayt_dkab_yanlis), ydt_dogru = VALUES(ydt_dogru), ydt_yanlis = VALUES(ydt_yanlis)Types: iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiValues count: 33Values: Array
+(
+    [0] => 1
+    [1] => 36
+    [2] => 2
+    [3] => 13
+    [4] => 1
+    [5] => 2
+    [6] => 5
+    [7] => 11
+    [8] => 0
+    [9] => 0
+    [10] => 0
+    [11] => 0
+    [12] => 0
+    [13] => 0
+    [14] => 0
+    [15] => 0
+    [16] => 0
+    [17] => 0
+    [18] => 0
+    [19] => 0
+    [20] => 0
+    [21] => 0
+    [22] => 0
+    [23] => 0
+    [24] => 0
+    [25] => 0
+    [26] => 0
+    [27] => 0
+    [28] => 0
+    [29] => 0
+    [30] => 0
+    [31] => 0
+    [32] => 0
+)
+Final message: Hedef başarıyla kaydedildi.Query: INSERT INTO wp_yks_targets (user_id, tyt_turkce_dogru, tyt_turkce_yanlis, tyt_sosyal_b_dogru, tyt_sosyal_b_yanlis, tyt_t_matematik_dogru, tyt_t_matematik_yanlis, tyt_fen_b_dogru, tyt_fen_b_yanlis, ayt_matematik_dogru, ayt_matematik_yanlis, ayt_fizik_dogru, ayt_fizik_yanlis, ayt_kimya_dogru, ayt_kimya_yanlis, ayt_biyoloji_dogru, ayt_biyoloji_yanlis, ayt_turk_dili_ve_edebiyati_dogru, ayt_turk_dili_ve_edebiyati_yanlis, ayt_tarih1_dogru, ayt_tarih1_yanlis, ayt_cografya1_dogru, ayt_cografya1_yanlis, ayt_tarih2_dogru, ayt_tarih2_yanlis, ayt_cografya2_dogru, ayt_cografya2_yanlis, ayt_felsefe_grubu_dogru, ayt_felsefe_grubu_yanlis, ayt_dkab_dogru, ayt_dkab_yanlis, ydt_dogru, ydt_yanlis) 
+              VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+              ON DUPLICATE KEY UPDATE tyt_turkce_dogru = VALUES(tyt_turkce_dogru), tyt_turkce_yanlis = VALUES(tyt_turkce_yanlis), tyt_sosyal_b_dogru = VALUES(tyt_sosyal_b_dogru), tyt_sosyal_b_yanlis = VALUES(tyt_sosyal_b_yanlis), tyt_t_matematik_dogru = VALUES(tyt_t_matematik_dogru), tyt_t_matematik_yanlis = VALUES(tyt_t_matematik_yanlis), tyt_fen_b_dogru = VALUES(tyt_fen_b_dogru), tyt_fen_b_yanlis = VALUES(tyt_fen_b_yanlis), ayt_matematik_dogru = VALUES(ayt_matematik_dogru), ayt_matematik_yanlis = VALUES(ayt_matematik_yanlis), ayt_fizik_dogru = VALUES(ayt_fizik_dogru), ayt_fizik_yanlis = VALUES(ayt_fizik_yanlis), ayt_kimya_dogru = VALUES(ayt_kimya_dogru), ayt_kimya_yanlis = VALUES(ayt_kimya_yanlis), ayt_biyoloji_dogru = VALUES(ayt_biyoloji_dogru), ayt_biyoloji_yanlis = VALUES(ayt_biyoloji_yanlis), ayt_turk_dili_ve_edebiyati_dogru = VALUES(ayt_turk_dili_ve_edebiyati_dogru), ayt_turk_dili_ve_edebiyati_yanlis = VALUES(ayt_turk_dili_ve_edebiyati_yanlis), ayt_tarih1_dogru = VALUES(ayt_tarih1_dogru), ayt_tarih1_yanlis = VALUES(ayt_tarih1_yanlis), ayt_cografya1_dogru = VALUES(ayt_cografya1_dogru), ayt_cografya1_yanlis = VALUES(ayt_cografya1_yanlis), ayt_tarih2_dogru = VALUES(ayt_tarih2_dogru), ayt_tarih2_yanlis = VALUES(ayt_tarih2_yanlis), ayt_cografya2_dogru = VALUES(ayt_cografya2_dogru), ayt_cografya2_yanlis = VALUES(ayt_cografya2_yanlis), ayt_felsefe_grubu_dogru = VALUES(ayt_felsefe_grubu_dogru), ayt_felsefe_grubu_yanlis = VALUES(ayt_felsefe_grubu_yanlis), ayt_dkab_dogru = VALUES(ayt_dkab_dogru), ayt_dkab_yanlis = VALUES(ayt_dkab_yanlis), ydt_dogru = VALUES(ydt_dogru), ydt_yanlis = VALUES(ydt_yanlis)Types: iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiValues count: 33Values: Array
+(
+    [0] => 1
+    [1] => 37
+    [2] => 2
+    [3] => 13
+    [4] => 1
+    [5] => 2
+    [6] => 5
+    [7] => 11
+    [8] => 0
+    [9] => 0
+    [10] => 0
+    [11] => 0
+    [12] => 0
+    [13] => 0
+    [14] => 0
+    [15] => 0
+    [16] => 0
+    [17] => 0
+    [18] => 0
+    [19] => 0
+    [20] => 0
+    [21] => 0
+    [22] => 0
+    [23] => 0
+    [24] => 0
+    [25] => 0
+    [26] => 0
+    [27] => 0
+    [28] => 0
+    [29] => 0
+    [30] => 0
+    [31] => 0
+    [32] => 0
+)
+Final message: Hedef başarıyla kaydedildi.Query: INSERT INTO wp_yks_targets (user_id, tyt_turkce_dogru, tyt_turkce_yanlis, tyt_sosyal_b_dogru, tyt_sosyal_b_yanlis, tyt_t_matematik_dogru, tyt_t_matematik_yanlis, tyt_fen_b_dogru, tyt_fen_b_yanlis, ayt_matematik_dogru, ayt_matematik_yanlis, ayt_fizik_dogru, ayt_fizik_yanlis, ayt_kimya_dogru, ayt_kimya_yanlis, ayt_biyoloji_dogru, ayt_biyoloji_yanlis, ayt_turk_dili_ve_edebiyati_dogru, ayt_turk_dili_ve_edebiyati_yanlis, ayt_tarih1_dogru, ayt_tarih1_yanlis, ayt_cografya1_dogru, ayt_cografya1_yanlis, ayt_tarih2_dogru, ayt_tarih2_yanlis, ayt_cografya2_dogru, ayt_cografya2_yanlis, ayt_felsefe_grubu_dogru, ayt_felsefe_grubu_yanlis, ayt_dkab_dogru, ayt_dkab_yanlis, ydt_dogru, ydt_yanlis) 
+              VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+              ON DUPLICATE KEY UPDATE tyt_turkce_dogru = VALUES(tyt_turkce_dogru), tyt_turkce_yanlis = VALUES(tyt_turkce_yanlis), tyt_sosyal_b_dogru = VALUES(tyt_sosyal_b_dogru), tyt_sosyal_b_yanlis = VALUES(tyt_sosyal_b_yanlis), tyt_t_matematik_dogru = VALUES(tyt_t_matematik_dogru), tyt_t_matematik_yanlis = VALUES(tyt_t_matematik_yanlis), tyt_fen_b_dogru = VALUES(tyt_fen_b_dogru), tyt_fen_b_yanlis = VALUES(tyt_fen_b_yanlis), ayt_matematik_dogru = VALUES(ayt_matematik_dogru), ayt_matematik_yanlis = VALUES(ayt_matematik_yanlis), ayt_fizik_dogru = VALUES(ayt_fizik_dogru), ayt_fizik_yanlis = VALUES(ayt_fizik_yanlis), ayt_kimya_dogru = VALUES(ayt_kimya_dogru), ayt_kimya_yanlis = VALUES(ayt_kimya_yanlis), ayt_biyoloji_dogru = VALUES(ayt_biyoloji_dogru), ayt_biyoloji_yanlis = VALUES(ayt_biyoloji_yanlis), ayt_turk_dili_ve_edebiyati_dogru = VALUES(ayt_turk_dili_ve_edebiyati_dogru), ayt_turk_dili_ve_edebiyati_yanlis = VALUES(ayt_turk_dili_ve_edebiyati_yanlis), ayt_tarih1_dogru = VALUES(ayt_tarih1_dogru), ayt_tarih1_yanlis = VALUES(ayt_tarih1_yanlis), ayt_cografya1_dogru = VALUES(ayt_cografya1_dogru), ayt_cografya1_yanlis = VALUES(ayt_cografya1_yanlis), ayt_tarih2_dogru = VALUES(ayt_tarih2_dogru), ayt_tarih2_yanlis = VALUES(ayt_tarih2_yanlis), ayt_cografya2_dogru = VALUES(ayt_cografya2_dogru), ayt_cografya2_yanlis = VALUES(ayt_cografya2_yanlis), ayt_felsefe_grubu_dogru = VALUES(ayt_felsefe_grubu_dogru), ayt_felsefe_grubu_yanlis = VALUES(ayt_felsefe_grubu_yanlis), ayt_dkab_dogru = VALUES(ayt_dkab_dogru), ayt_dkab_yanlis = VALUES(ayt_dkab_yanlis), ydt_dogru = VALUES(ydt_dogru), ydt_yanlis = VALUES(ydt_yanlis)Types: iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiValues count: 33Values: Array
+(
+    [0] => 1
+    [1] => 39
+    [2] => 0
+    [3] => 13
+    [4] => 1
+    [5] => 2
+    [6] => 5
+    [7] => 11
+    [8] => 0
+    [9] => 0
+    [10] => 0
+    [11] => 0
+    [12] => 0
+    [13] => 0
+    [14] => 0
+    [15] => 0
+    [16] => 0
+    [17] => 0
+    [18] => 0
+    [19] => 0
+    [20] => 0
+    [21] => 0
+    [22] => 0
+    [23] => 0
+    [24] => 0
+    [25] => 0
+    [26] => 0
+    [27] => 0
+    [28] => 0
+    [29] => 0
+    [30] => 0
+    [31] => 0
+    [32] => 0
+)
+Final message: Hedef başarıyla kaydedildi.
